@@ -26,7 +26,7 @@ class DetailActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
+        //do the changes
         // Retrieve a binding object that allows you to refer to views by id name
         // Names are converted from snake case to camel case.
         // For example, a View with the id word_one is referenced as binding.wordOne
