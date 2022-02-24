@@ -30,7 +30,7 @@ import androidx.recyclerview.widget.RecyclerView
  */
 class WordAdapter(private val letterId: String, context: Context) :
     RecyclerView.Adapter<WordAdapter.WordViewHolder>() {
-
+    //list of strings
     private val filteredWords: List<String>
 
     init {
